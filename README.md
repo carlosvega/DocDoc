@@ -1,7 +1,7 @@
 # DocDoc
 Documentación y trámites para el programa de Doctorado Ing. Informática y Telecomunicación RD2011
 
-## Plantilla de la tesis
+## Plantilla de la tesis
 
 En mi caso he utilizado la plantilla de Overleaf hecha a partir de la clase memoir subida por la [Universidad de Bristol](https://www.overleaf.com/latex/templates/university-of-bristol-thesis-template/kzqrfvyxxcdm)
 
@@ -11,7 +11,8 @@ Mis modificaciones estan disponibles aquí.
 
 No existen directrices sobre la estructura, extensión o formato de la tesis doctoral.
 
-## Normativas
+## Normativas
+
 Normativa Tribunal
 Normativa de documentación para depósito
 
@@ -24,12 +25,12 @@ Papers impresos
 Relación de capítulos de tesis y publicaciones
 Tribunal
 
-## Trámites UAM
+## Trámites UAM
 
 En Sigma pone la fecha de depósito.
 Los documentos a entregar son:
 
-Depósito de la tesis:
+### Depósito de la tesis:
 * Encuadernado tipo tomo
 * CD-ROM con la tesis en PDF y Resumen en PDF
 * El documento de actividades personalizadas del doctorando.
