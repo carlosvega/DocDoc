@@ -44,12 +44,12 @@ En mi caso he utilizado [esta de la UAM](https://github.com/carlosvega/DocDoc/ra
 
 ## Trámites EPS
 
-Transferencia industrial (si la hubiera)
-[Informe del director](https://github.com/carlosvega/DocDoc/raw/master/uam/Informe_director_tesis_17.doc)
-Curriculum impreso
-Papers impresos
-Relación de capítulos de tesis y publicaciones
-[Tribunal](https://github.com/carlosvega/DocDoc/blob/master/uam/Propuesta%20de%20Tribunal%20de%20Tesis%20Doctoral.docx)
+* Transferencia industrial (si la hubiera)
+* [Informe del director](https://github.com/carlosvega/DocDoc/raw/master/uam/Informe_director_tesis_17.doc)
+* Curriculum impreso
+* Papers impresos
+* Relación de capítulos de tesis y publicaciones
+* [Tribunal](https://github.com/carlosvega/DocDoc/blob/master/uam/Propuesta%20de%20Tribunal%20de%20Tesis%20Doctoral.docx)
 
 ## Trámites UAM
 
