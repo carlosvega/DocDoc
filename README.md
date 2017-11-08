@@ -71,3 +71,9 @@ En SIGMA pone la fecha de depósito.
 ## Trámites Mención Internacional
 
 ## Ayudas a la encuadernación
+
+La factura no debe superar los 250€ (IVA incluido) y debe tener los siguientes datos:
+
+* CIF: Q2818013A
+* Nombre: Universidad Autónoma de Madrid
+* Dirección: Campus de Cantoblanco, Calle Francisco Tomás y Valiente 28049 Madrid
