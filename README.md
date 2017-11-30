@@ -53,7 +53,7 @@ En mi caso he utilizado [esta de la UAM](https://github.com/carlosvega/DocDoc/ra
 * Preparar la [documentación necesaria de la UAM](https://github.com/carlosvega/DocDoc#depósito-de-la-tesis)
 * Depósito registro general (fecha que aparece en SIGMA)
 * Consideración por la comisión de la UAM
-* Defensa de la tesis entre 15 y 6 meses después de la consideración de la comisión.
+* Defensa no antes de 15 días y no más tarde de 6 meses a partir de la fecha de la comisión (y su aprobación) de la UAM.
 
 ## Trámites EPS
 
