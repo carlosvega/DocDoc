@@ -1,6 +1,12 @@
 # DocDoc
 
-Documentación y trámites para el programa de Doctorado Ing. Informática y Telecomunicación RD2011
+**Documentación y trámites para el programa de Doctorado Ing. Informática y Telecomunicación RD2011**
+
+<p align="right">
+  También disponible en: <a href="https://carlosvega.github.io/DocDoc/">https://carlosvega.github.io/DocDoc/</a>
+</p>
+
+<img alt="EPS Logo" src="https://github.com/carlosvega/DocDoc/raw/master/plantilla/logos/eps.jpg" height="70">&nbsp;&nbsp;&nbsp;<img alt="UAM Logo" src="https://github.com/carlosvega/DocDoc/raw/master/uam/logo.png" height="70">&nbsp;&nbsp;&nbsp;<img alt="UAM Escudo" src="https://github.com/carlosvega/DocDoc/raw/master/plantilla/logos/uam.png" height="70"> 
 
 ## Plantillas
 
