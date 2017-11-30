@@ -92,7 +92,7 @@ Es un proceso relativamente nuevo, el cual no se ha realizado muchas veces en la
 
 > El doctorando tendrá un tutor de tesis designado por la Universidad y un responsable designado por la empresa o Administración Pública, que podrá ser, en su caso, Director de la tesis de acuerdo con la normativa propia de Doctorado.»
 
-### Documentos a entregar
+### Documentos a entregar
 
 Si se cumplen las condiciones arriba expuestas, se deberán entregar los siguientes documentos, disponibles en la web de la [Escuela de Doctorado](https://uam.es/EscuelaDoctorado/(es_ES)-Doctorado-Industrial/1446747675407.htm?language=es_ES&nDept=5&nodepath=Doctorado%20Industrial)
 
