@@ -2,7 +2,7 @@
 
 **Documentación y trámites para el programa de Doctorado Ing. Informática y Telecomunicación RD2011**
 
-<img alt="EPS Logo" src="https://github.com/carlosvega/DocDoc/raw/master/plantilla/logos/eps.jpg" height="70">&nbsp;&nbsp;&nbsp;<img alt="UAM Logo" src="https://github.com/carlosvega/DocDoc/raw/master/uam/logo.png" height="70">&nbsp;&nbsp;&nbsp;<img alt="UAM Escudo" src="https://github.com/carlosvega/DocDoc/raw/master/plantilla/logos/uam.png" height="70"> 
+<img alt="EPS Logo" src="https://github.com/carlosvega/DocDoc/raw/master/plantilla/logos/eps.jpg" height="60">&nbsp;&nbsp;<img alt="UAM Logo" src="https://github.com/carlosvega/DocDoc/raw/master/uam/logo.png" height="60">&nbsp;&nbsp;<img alt="UAM Escudo" src="https://github.com/carlosvega/DocDoc/raw/master/plantilla/logos/uam.png" height="60"> 
 
 ## Plantillas
 
