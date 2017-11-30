@@ -7,7 +7,7 @@ Documentación y trámites para el programa de Doctorado Ing. Informática y Te
 ### Tesis
 En mi caso he utilizado la plantilla de Overleaf hecha a partir de la clase memoir subida por la [Universidad de Bristol](https://www.overleaf.com/latex/templates/university-of-bristol-thesis-template/kzqrfvyxxcdm)
 
-Mi plantilla modificada está disponible aquí: https://github.com/carlosvega/DocDoc/tree/master/plantilla
+Mi plantilla modificada está disponible aquí: [https://github.com/carlosvega/DocDoc/tree/master/plantilla](https://github.com/carlosvega/DocDoc/tree/master/plantilla)
 
 ### Plantilla de CV
 En mi caso he utilizado [esta de la UAM](https://github.com/carlosvega/DocDoc/raw/master/otros/solicitud_concurso.doc). Se recomienda adjuntar el CV al documento de actividades de SIGMA.
