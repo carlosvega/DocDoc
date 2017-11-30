@@ -1,7 +1,7 @@
 # DocDoc
 
 <p align="right">
-  Interactive visualization also available at: <a href="https://carlosvega.github.io/DocDoc/">https://carlosvega.github.io/DocDoc/</a>
+  También disponible en: <a href="https://carlosvega.github.io/DocDoc/">https://carlosvega.github.io/DocDoc/</a>
 </p>
 
 Documentación y trámites para el programa de Doctorado Ing. Informática y Telecomunicación RD2011
