@@ -24,6 +24,7 @@ En mi caso he utilizado [esta de la UAM](https://github.com/carlosvega/DocDoc/ra
 
 - [Procedimiento relativo al tribunal, defensa y evaluación  de la tesis doctoral en la UAM **2017**](https://github.com/carlosvega/DocDoc/raw/master/uam/procedimientos_tesis/ProcedimientoTesis_Final_vigente_2017.pdf)
 - [Procedimiento relativo al tribunal, defensa y evaluación  de la tesis doctoral en la UAM **2015**](https://github.com/carlosvega/DocDoc/raw/master/uam/procedimientos_tesis/ProcedimientoTesis_Final_vigente_2015.pdf)
+- Muchos procedimientos internos de la EPS se basan en la [normativa anterior](https://github.com/carlosvega/DocDoc/blob/master/otros/reg20.pdf).
 
 ## Cronología global de los trámites
 
