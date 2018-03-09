@@ -72,7 +72,7 @@ En SIGMA pone la fecha de depósito.
 
 ### Depósito de la tesis:
 [Web con la documentación de la defensa](http://www.uam.es/EscuelaDoctorado/(es_ES)-Documentaci%C3%B3n-para-la-defensa/1429099857059.htm?language=es_ES&nDept=5&nodepath=Documentaci%C3%B3n%20para%20la%20defensa%20)
-
+* La [“Solicitud de autorización de defensa de la tesis doctoral”](https://github.com/carlosvega/DocDoc/raw/master/uam/solicitud_autorizaci%C3%B3n_defensa_tesis.doc) junto con los siguientes documentos: 
 * Ejemplar de la tesis encuadernada de forma que no sea susceptible de manipulación (Encuadernado tipo tomo)
 * CD-ROM con funda identificado con el nombre y apellidos del autor de la tesis. Deberá incluir un PDF adicional con el resumen-abstract de la tesis doctoral.
 * El documento de actividades personalizadas del doctorando. Esto es, en SIGMA se deberán especificar las actividades hechas, y deberán estar validadas por el director de tesis. Deber imprimirse y **no deberá** haber ninguna actividad no validada en el documento. Se recomienda adjuntar el CV también.
